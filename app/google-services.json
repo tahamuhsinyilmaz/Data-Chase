@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "266826163923",
+    "firebase_url": "https://datachase-3a194.firebaseio.com",
+    "project_id": "datachase-3a194",
+    "storage_bucket": "datachase-3a194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266826163923:android:dc0bde8d7ba8812f",
+        "android_client_info": {
+          "package_name": "com.example.mac.datachase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266826163923-j7l0kl174u6dfc0t16jk891dac4fbmgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mac.datachase",
+            "certificate_hash": "4a297a70e455c64ea659de064aca909f27cdf977"
+          }
+        },
+        {
+          "client_id": "266826163923-40br5jm6oqk4mkhu99g0gc82lvjojmrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOo6KJD9c2eonf-QCkTNbnRrTMGXcqSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266826163923-40br5jm6oqk4mkhu99g0gc82lvjojmrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

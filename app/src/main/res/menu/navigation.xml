@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_isiklar"
+        android:icon="@drawable/ic_lightbulb_outline_black_24dp"
+        android:title="Aydınlatma" />
+
+    <item
+        android:id="@+id/navigation_panjurlar"
+        android:icon="@drawable/ic_dehaze_black_24dp"
+        android:title="Panjurlar" />
+    <item
+        android:id="@+id/navigation_sicaklik"
+        android:icon="@drawable/ic_ac_unit_black_24dp"
+        android:title="Sıcaklık Ve Nem" />
+    <item
+        android:id="@+id/navigation_kamera"
+        android:icon="@drawable/ic_videocam_black_24dp"
+        android:title="Güv. Kamerası" />
+    <item
+        android:id="@+id/navigation_daha"
+        android:icon="@drawable/ic_more_horiz_black_24dp"
+        android:title="Daha Fazla" />
+
+
+</menu>
