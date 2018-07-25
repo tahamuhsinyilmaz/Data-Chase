@@ -2,7 +2,7 @@
 ## Smart Office System
 ![LOGO](data.png)
 
-##Overview
+## Overview
 Data Chase smart office system is based on MQTT messaging which consists of android application and raspberry pi gateway.
 You can control your office device such as cameras, lights etc. Also can receive temperature and humidity values on your app over MQTT messages.
 
